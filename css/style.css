@@ -406,3 +406,45 @@ a:focus {
 .credits {
   color: #fff;
 }
+
+/* YouTube */
+.responsive {
+width: 100%;
+aspect-ratio: 16/9;
+}
+
+#youtube {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background: #FFFFFF;
+	margin-top: -100px;
+	margin-bottom: 10px;
+	display: block;
+	text-align: center;
+}
+
+#youtube p {
+	margin-top: 15px;
+	margin-bottom: 30px;
+	color: #000000;
+	text-align: left;
+}
+
+#youtube li {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: #000000;
+	text-align: left;
+}
+
+#youtube h4 {
+	padding-top: 70px;
+	text-align: left
+}
+
+#youtube h5 {
+	color: #000000;
+	text-align: left;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
