@@ -311,34 +311,6 @@ a:focus {
 }
 
 /* Student Achievements Wrap */
-#studentachievemts {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	margin-top: -100px;
-	margin-bottom: 10px;
-	display: block;
-	text-align: center;
-}
-
-#studentachievements p {
-	margin-top: 15px;
-	margin-bottom: 30px;
-	color: #000000;
-	text-align: left;
-}
-
-#studentachievements h4 {
-	padding-top: 70px;
-	text-align: left
-}
-
-#studentachievements h5 {
-	color: #000000;
-	text-align: left;
-	margin-top: 15px;
-	margin-bottom: 10px;
-}
-
 #studentachievemts iframe {
         position: relative;
         left: 30px;
