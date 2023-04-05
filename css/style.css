@@ -310,6 +310,42 @@ a:focus {
 	margin-bottom: 10px;
 }
 
+/* Student Achievements Wrap */
+#studentachievemts {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background: #FFFFFF;
+	margin-top: -100px;
+	margin-bottom: 10px;
+	display: block;
+	text-align: center;
+}
+
+#studentachievemts p {
+	margin-top: 15px;
+	margin-bottom: 30px;
+	color: #000000;
+	text-align: left;
+}
+
+#studentachievemts h4 {
+	padding-top: 70px;
+	text-align: left
+}
+
+#studentachievemts h5 {
+	color: #000000;
+	text-align: left;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+#studentachievemts iframe {
+        position: relative;
+        left: 30px;
+	margin-bottom: 10px;
+}
+
 /* Research Theme */
 #researchtheme {
 	padding-top: 60px;
