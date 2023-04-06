@@ -348,13 +348,15 @@ aspect-ratio: 16/9;
 #studentachievemts h5 {
 	color: #000000;
 	text-align: left;
+	position: relative;
+    left: 10px;
 	margin-top: 15px;
 	margin-bottom: 10px;
 }
 
 #studentachievemts iframe {
-        position: relative;
-        left: 30px;
+    position: relative;
+    left: 30px;
 	margin-bottom: 10px;
 }
 
